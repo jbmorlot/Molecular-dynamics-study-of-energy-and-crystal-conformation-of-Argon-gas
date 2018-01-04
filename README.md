@@ -7,7 +7,7 @@ Les fichiers associés sont les suivants:
 
 Le programme ./remote permet de lancer 2 simulations distincts:
 ->La simulation 1: Etude du système à energie constante
-->La simulation 2: Etude des cristaux de l'Argon (<a href="Crystal structure image">https://github.com/jbmorlot/Molecular-dynamics-study-of-energy-and-crystal-conformation-of-Argon-gas/blob/master/Resulats%20Simulation/Simulation2_Etude_reseaux_cristallins_argon/exemple_crystal_Argon.jpg</a>)
+->La simulation 2: Etude des cristaux de l'Argon (<a href="https://github.com/jbmorlot/Molecular-dynamics-study-of-energy-and-crystal-conformation-of-Argon-gas/blob/master/Resulats%20Simulation/Simulation2_Etude_reseaux_cristallins_argon/exemple_crystal_Argon.jpg">Crystal structure image</a>)
 
 Une fois la simulation lancée, un dossier sera crée dans lequel sera enregistré toutes les figures:
 -> Distribution radiale, vitesse, temperature, position(<- fichier texte pour JMOL), energie... et un fichier appelé resume_simulations.txt dans lequel est écrit les variables de chaques simulations exectuées ainsi que si elles ont divergées ou pas.
