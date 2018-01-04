@@ -1,3 +1,4 @@
+# Molecular dynamics study of energy and crystal conformation of Argon gas - Master 1 Project
 ## Description du programme
 Le programme est découpé en 2 parties: Une partie qui va gérer la simulation et les mesures, ./dynamique_mol et une autre qui va lancer la simulation plusieurs fois en changeant les variables de la simulation, ./remote.
 
